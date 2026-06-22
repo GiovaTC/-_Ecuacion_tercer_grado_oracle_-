@@ -37,5 +37,5 @@ public class PuntoGrafica {
 
     public void setY(double y) {
         this.y = y;
-    }   
+    }
 }
