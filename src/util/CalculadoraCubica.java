@@ -28,5 +28,5 @@ public class CalculadoraCubica {
             puntos.add(p);
         }
         return puntos;
-    }   
+    }
 }
