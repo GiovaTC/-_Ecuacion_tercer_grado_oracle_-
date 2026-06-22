@@ -42,4 +42,4 @@ public class EcuacionDAO {
             ps.executeBatch();
         }
     }
-}   
+}
